@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wambugu Dennis
-- 👨🏾‍💻 I'm a security analyst | cloud engineer | web developer 
+- 👨🏾‍💻 I'm a security analyst | cloud engineer | web developer | learner
 - 👀 I’m interested in cyber security, cloud architecture(solutions and security), pentesting & web development.
 - 🌱 I’m currently learning containerization( docker networks and kubernetes), Azure, AWS, GCP and automating with python.
 - 💞️ I’m looking to collaborate on cloud projects, web design & development projetcs and pentesting challenges and projets.
