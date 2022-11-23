@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **containers( docker networks and kubernetes), cloud Architecture on(Azure, AWS & GCP), automating with python, bash & C++.**
 
-- 💻 I'm constantly practicing pentesting on **HackTheBox.eu(active member of HTB_KE meetup), TryHackMe, Topcoder and learning web pentesting on Portswigger Academy.** 
+- 💻 I'm constantly practicing pentesting on **HackTheBox.eu(active member @ HTB_KE meetup), TryHackMe, Topcoder and learning web pentesting on Portswigger Academy.** 
 
 - 👯 I’m looking to collaborate on **cloud projects, web design & development projetcs and pentesting challenges and projects.**
 
