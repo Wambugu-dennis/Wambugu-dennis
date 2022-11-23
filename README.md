@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wambugu Dennis</h1>
-<h3 align="center">A passionate security analyst | cloud engineer | web developer | learner from Nairobi.</h3>
+<h3 align="center">A passionate security analyst | cloud engineer | web developer | learner from Nairobi,[image](https://user-images.githubusercontent.com/49392080/203638875-aac19d12-ddd2-4de4-a013-35067c5e1829.png)
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wambugu-dennis&label=Profile%20views&color=0e75b6&style=flat" alt="wambugu-dennis" /> </p>
 
