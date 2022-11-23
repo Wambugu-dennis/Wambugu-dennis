@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **cloud projects, web design & development projetcs and pentesting challenges and projets.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wambugu-dennis](https://github.com/Wambugu-dennis)
+- 👨‍💻 All of my (publicly available) projects are available at [github.com/Wambugu-dennis](https://github.com/Wambugu-dennis)
 
-- 📝 I regularly write articles on [wambugudennis@netlify.app](wambugudennis@netlify.app)
+- 📝 Look out for upcoming articles on on my portfolio @-> [wambugudennis@netlify.app](wambugudennis@netlify.app)
 
 - 💬 Ask me about **python, bash, Azure & AWS, Docker networking & pentesting**
 
 - 📫 How to reach me **wambugudennis398@gmail.com**
 
-- ⚡ Fun fact **I love space tech, follows up on the JWST and occasionally funny haha**
+- ⚡ Fun fact **I love space tech, robotics, follows up on the JWST and occasionally funny haha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
