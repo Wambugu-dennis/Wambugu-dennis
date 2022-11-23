@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dennis Wambugu</h1>
+<h1 align="center">Hi 👋, I'm Wambugu Dennis</h1>
 <h3 align="center">A passionate security analyst | cloud engineer | web developer | learner from Nairobi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wambugu-dennis&label=Profile%20views&color=0e75b6&style=flat" alt="wambugu-dennis" /> </p>
