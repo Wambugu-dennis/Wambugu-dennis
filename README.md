@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **python, bash, Azure & AWS, Docker networking & pentesting**
 
-- 📫 How to reach me **wambugudennis398@gmail.com**
+- 📫 Shot me a message and let’s get to work.  **wambugudennis398@gmail.com**
 
 - ⚡ Fun fact **I love space tech, robotics, follows up on the JWST and occasionally funny haha**
 
