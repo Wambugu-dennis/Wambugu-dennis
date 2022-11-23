@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **containers( docker networks and kubernetes), Azure, AWS, GCP, automating with python, bash & C++.**
 
+- 💻 I'm constantly practicing pentesting on HackTheBox.eu(active member of HTB_KE meetup), TryHackMe, Topcoder and learning web pentesting on Portswigger Academy. 
+
 - 👯 I’m looking to collaborate on **cloud projects, web design & development projetcs and pentesting challenges and projets.**
 
 - 👨‍💻 All of my (publicly available) projects are available at [github.com/Wambugu-dennis](https://github.com/Wambugu-dennis)
