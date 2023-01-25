@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my (publicly available) projects are available at [github.com/Wambugu-dennis](https://github.com/Wambugu-dennis)
 
-- 📝 Look out for upcoming articles on on my portfolio @-> [wambugudennis@netlify.app](wambugudennis@netlify.app)
+- 📝 Look out for upcoming articles on on my portfolio @-> [wambugudennis.netlify.app](wambugudennis.netlify.app)
 
 - 💬 Ask me about **python, bash, Azure & AWS, Docker networking & pentesting**
 
