@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **cyber security, cloud architecture(solutions and security), pentesting & web development.**
 
-- 🌱 I’m currently learning **containers( docker networks and kubernetes), cloud Architecture on(Azure, AWS & GCP), automating with python, bash & C++.**
+- 🌱 Currently learning **containers( docker networks and kubernetes), cloud Architecture(Azure & AWS), automating with python, bash & C++.**
 
-- 💻 I'm constantly practicing pentesting on **HackTheBox.eu(active member @ HTB_KE meetup), TryHackMe, Topcoder and learning pentesting @ APIsec University &  Portswigger Academy.** 
+- 💻 I'm constantly practicing pentesting at **HackTheBox.eu(HTB_KE meetup), TryHackMe, Topcoder and learning pentesting @ APIsec University &  Portswigger Academy.** 
 
-- 👯 I’m looking to collaborate on **cloud projects, web design & development projetcs and pentesting challenges and projects.**
+- 👯 I’m looking to collaborate on **cloud projects, web development projetcs and pentesting challenges and projects.**
 
 - 👨‍💻 All of my (publicly available) projects are available at [github.com/Wambugu-dennis](https://github.com/Wambugu-dennis)
 
-- 📝 Look out for upcoming articles on on my portfolio @-> [wambugudennis.netlify.app](wambugudennis.netlify.app)
+- 📝 Look out for more info on my portfolio @-> [wambugudennis.netlify.app](https://wambugudennis.netlify.app)
 
 - 💬 Ask me about **python, bash, Azure & AWS, Docker networking & pentesting**
 
