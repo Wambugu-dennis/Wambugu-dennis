@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wambugu Dennis</h1>
-<h3 align="center">A passionate security analyst | cloud engineer | web developer | learner from Nairobi</h3>
+<h3 align="center">A passionate security analyst | cloud engineer | developer | learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wambugu-dennis&label=Profile%20views&color=0e75b6&style=flat" alt="wambugu-dennis" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **cyber security, cloud architecture(solutions and security), pentesting & web development.**
 
-- 🌱 Currently learning **containers( docker networks and kubernetes), cloud Architecture(Azure & AWS), automating with python, bash & C++.**
+- 🌱 Currently learning **containers( docker networking ), cloud Architecture(Azure & AWS), automating with python, bash & C++.**
 
-- 💻 I'm constantly practicing pentesting at **HackTheBox.eu(HTB_KE meetup), TryHackMe, Topcoder and learning pentesting @ APIsec University &  Portswigger Academy.** 
+- 💻 I'm constantly practicing pentesting at **HackTheBox.eu(HTB_KE meetup), TryHackMe, Topcoder and learning pentesting @ APIsec University.** 
 
 - 👯 I’m looking to collaborate on **cloud projects, web development projetcs and pentesting challenges and projects.**
 
@@ -17,11 +17,11 @@
 
 - 📝 Look out for more info on my portfolio @-> [wambugudennis.netlify.app](https://wambugudennis.netlify.app)
 
-- 💬 Ask me about **python, bash, Azure & AWS, Docker networking & pentesting**
+- 💬 Ask me about **python, bash, Azure & AWS, Docker networking, pentesting & API security**
 
 - 📫 Shot me a message and let’s get to work.  **wambugudennis398@gmail.com**
 
-- ⚡ Fun fact **I love space tech, robotics, follows up on the JWST and occasionally funny haha**
+- ⚡ Fun fact **I love space tech, robotics, follows up on the JWST ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
